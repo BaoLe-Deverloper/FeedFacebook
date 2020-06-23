@@ -89,6 +89,7 @@ namespace ManagerFacebook
             ChangeBodyControl(dataViewer);
 
             loadGroupGUI();
+            var n = 0;
             //accountService.InsertAccountModel(new AccountModel(){UID="18891403421", NameAccount = "Vân Anh", AccessToken = "HBSDBHS",
             //    Groups = 10, BirthDay = "03/04/1998", Cookie = "SNJSF", PathProfile = "SKFSF", Sex = null, Status = "Checkpoit", Password = "ZBDHBSDF", Friends = 10,GroupID = 1});
 
